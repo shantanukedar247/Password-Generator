@@ -15,7 +15,7 @@ public class Main {
     private static void printColorfulBanner() {
         System.out.println("\u001B[36m");
         System.out.println("╔══════════════════════════════════════════╗");
-        System.out.println("║ Best Password Generator v1.0             ║");
+        System.out.println("║ My  Password Generator v1.0              ║");
         System.out.println("╚══════════════════════════════════════════╝");
         System.out.println("\u001B[0m");
     }
